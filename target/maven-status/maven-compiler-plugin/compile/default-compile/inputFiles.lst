@@ -1,0 +1,13 @@
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/entity/Article.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/impl/ConnectionPool.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/entity/Category.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/UserDao.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/impl/CategoryDaoImpl.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/entity/Users.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/ArticleDao.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/CategoryDao.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/entity/Role.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/controller/HomeServlet.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/impl/QueryExecutor.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/impl/ArticleDaoImpl.java
+/Users/alishahid/Documents/GitHub/simplewebapp-part7/src/main/java/com/javamaster/dao/impl/UsersDaoImpl.java
